@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f0e8;
+    margin: 0;
+    color: #333;
+}
+
+header {
+    background-color: #6b3e26;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #3d281c;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    color: #6b3e26;
+}
+
+section {
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+article {
+    background-color: #f5f0e8;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+aside {
+    background-color: #f5d6a5;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: #3d281c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.introducao {
+    background-color: #6b3e26;
+    color: white;
+    text-align: center;
+    padding: 1px;
+
+}
